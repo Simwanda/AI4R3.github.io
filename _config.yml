@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "lenganji_pic.jpg"
+  avatar           : "lenga.jpg"
   name             : "Dr. Lenganji Simwanda"
   pronouns         : "he/his"  
   bio              : "Research Fellow | Structural Engineering, Artificial Intelligence, and R³ (Reliability Risk and Resilience) "
