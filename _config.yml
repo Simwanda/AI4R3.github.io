@@ -25,11 +25,11 @@ author:
   # Biographic information
   avatar           : "lenganji_pic.jpg"
   name             : "Dr. Lenganji Simwanda"
-  pronouns         : # example: "he/his"  
+  pronouns         : "he/his"  
   bio              : "Research Fellow | Structural Engineering, Artificial Intelligence, and R³ (Reliability Risk and Resilience) "
   location         : "Klokner Institute"
   employer         : "Czech Technical University in Prague"
-  uri              : "https://usermap.cvut.cz/profile/5ff95e0d-8c54-470f-aae0-77bda839c79d" 
+  uri              : #URL
   email            : "simwalen@cvut.cz" 
 
   # Academic websites
